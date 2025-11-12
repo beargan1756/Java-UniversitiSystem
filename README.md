@@ -44,10 +44,3 @@ It includes modules for handling:
    javac Main.java
    java Main
    ```
-
----
-
-## 🏁 Conclusion
-
-The **University Examination System** provides an efficient, text-based solution to manage university data and automate academic processes.  
-It demonstrates core object-oriented programming concepts and simplifies administrative tasks through a user-friendly console interface.
